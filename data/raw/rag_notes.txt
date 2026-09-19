@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation, or RAG, combines information retrieval
+with text generation. A RAG system first retrieves relevant documents
+from a knowledge base and then provides those documents to a language
+model as context.
+
+Embeddings represent text as numerical vectors. Similar pieces of text
+have similar vector representations.
+
+A vector database stores these embeddings and allows similarity search.
